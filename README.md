@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on my Skills.
+🔭 I’m currently working on my Skills.
 <br>🌱 I’m currently learning more about Web Development.
 <br>🤔 I’m looking for help with Explore New Technologies.
 <br>💬 Ask me about tech-related stuff.
